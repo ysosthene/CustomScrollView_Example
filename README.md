@@ -5,4 +5,4 @@ This app demonstrates an implementation example of the CustomScrollView [gist](h
 
 ###Librairies used
 
-*[Otto](http://square.github.io/otto/)
+* [Otto](http://square.github.io/otto/)
